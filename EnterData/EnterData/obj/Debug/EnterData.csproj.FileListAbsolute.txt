@@ -1,0 +1,48 @@
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterADAMMods.frmMain.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterADAMMods.frmView.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.frmMainMenu.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.Properties.Resources.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.csproj.GenerateResource.cache
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.csproj.CoreCompileInputs.cache
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\bin\Debug\EnterData.exe.config
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\bin\Debug\EnterData.exe
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\bin\Debug\EnterData.pdb
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.exe
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.pdb
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterQADPrinters.frmMain.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterQADPrinters.frmView.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.SplashScreen.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterWeights.frmMain.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterWeights.frmView.resources
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\bin\Debug\EnterData.exe.manifest
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\bin\Debug\EnterData.application
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.exe.manifest
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.application
+C:\Users\nzpv24\NEXTEER AUTOMOTIVE\OneDrive - NEXTEER AUTOMOTIVE\EnterData\EnterData\obj\Debug\EnterData.csprojAssemblyReference.cache
+D:\Nexteer\EnterData\EnterData\bin\Debug\EnterData.exe.config
+D:\Nexteer\EnterData\EnterData\bin\Debug\EnterData.exe.manifest
+D:\Nexteer\EnterData\EnterData\bin\Debug\EnterData.application
+D:\Nexteer\EnterData\EnterData\bin\Debug\EnterData.exe
+D:\Nexteer\EnterData\EnterData\bin\Debug\EnterData.pdb
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterADAMMods.frmMain.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterADAMMods.frmView.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterQADPrinters.frmMain.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterQADPrinters.frmView.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterWeights.frmMain.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterWeights.frmView.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.frmMainMenu.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.Properties.Resources.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.SplashScreen.resources
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.csproj.GenerateResource.cache
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.csproj.CoreCompileInputs.cache
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.exe.manifest
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.application
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.exe
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.pdb
+D:\Nexteer\EnterData\EnterData\bin\Debug\DBFiles\ADAMModules.ldf
+D:\Nexteer\EnterData\EnterData\bin\Debug\DBFiles\ADAMModules.mdf
+D:\Nexteer\EnterData\EnterData\bin\Debug\DBFiles\PartWeights.ldf
+D:\Nexteer\EnterData\EnterData\bin\Debug\DBFiles\PartWeights.mdf
+D:\Nexteer\EnterData\EnterData\bin\Debug\DBFiles\QADPrinters.ldf
+D:\Nexteer\EnterData\EnterData\bin\Debug\DBFiles\QADPrinters.mdf
+D:\Nexteer\EnterData\EnterData\obj\Debug\EnterData.csprojAssemblyReference.cache
